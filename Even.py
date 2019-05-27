@@ -1,4 +1,4 @@
-num=int(input("what is the value"))
+num=3
 if(num%2==0):
   print("Even")
 else:
