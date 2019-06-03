@@ -1,4 +1,4 @@
-'' Count number of special character in a given string '''
+''' Count number of special character in a given string '''
 value = input() 
 count=0
 for i in range(len(value)):
