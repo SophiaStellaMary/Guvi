@@ -1,4 +1,4 @@
-'''Program to print the number which is not repeated'''
+''' Hunter 4 Program to print the number which is not repeated'''
 a=int(input())
 b=list(map(int,input().split()))
 for i in b:
