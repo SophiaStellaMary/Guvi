@@ -1,4 +1,4 @@
-''' Player 31 PROGRAM TO CHECK THE GIVEN VALUE LIE IN SAME LINE '''
+''' Player 31 Program to check given value lie in the same line'''
 x,x1=map(int,input().split())
 y,y1=map(int,input().split())
 z,z1=map(int,input().split())
