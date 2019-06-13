@@ -1,4 +1,4 @@
-'''Hunter 18 print the element that appeared in all array'''
+'''Hunter 19 print the element that appeared in all array'''
 X,Y=map(int,input().split())
 L=[]
 for i in range(X):
