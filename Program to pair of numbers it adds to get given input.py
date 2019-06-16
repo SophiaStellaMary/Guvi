@@ -4,10 +4,10 @@ m=list(map(int,input().split()))
 count=0
 for i in range(len(m)):
   for j in range(i+1,len(m)):
-    if(m[i]+m[j]==q):
+    if(m[i]+m[j]==b):
         count=count+1
         break
 if(count==1):
    print("yes")
 else:
-   print("no") 
+   print("no")   
